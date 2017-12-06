@@ -129,7 +129,7 @@
 
 ## 机器学习概论
 - [X] [形象的机器学习简介](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
-- [ ] [一份温柔的机器学习指南](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
+- [X] [一份温柔的机器学习指南](https://guzhen1989.github.io/2017/12/06/%E4%B8%80%E4%BB%BD%E6%B8%A9%E6%9F%94%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/)
 - [ ] [为开发者准备的机器学习简介](http://blog.algorithmia.com/introduction-machine-learning-developers/)
 - [ ] [菜鸟的机器学习基础](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 - [ ] [你如何向非计算机专业的人来解释机器学习与数据挖掘？](https://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people)
